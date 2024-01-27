@@ -16,4 +16,10 @@ import java.util.LinkedHashMap;
 import java.util.UUID;
 
 public class testCase_API_03 {
+
+    @Test(description="API for booking reservation and getting result of booking.",groups="API Tests")
+    // @Test(priority = 3,groups = {"API test"},description = "booking a new reservation functionality tesing")
+    public void testCase03(){
+
+    }
 }
